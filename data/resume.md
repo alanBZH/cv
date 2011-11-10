@@ -11,7 +11,8 @@ SYNOPSIS
 --------
 
 Rein is a senior software developer with experience ranging from web
-application design and development to systems configuration management.
+application design and development to systems configuration management and
+distributed systems.
 
 He has led teams using agile methods, contributed to and maintained several
 popular open source projects, and some other awesome stuff too.
@@ -50,7 +51,7 @@ STANDARDS
     management (XP, Scrum, Kanban), Open Source project management.
 
   * Testing:
-    Test Driven Development, Regression Testing, Quality Assurance
+    Test Driven Development, Regression Testing, Quality Assurance.
 
   * User Experience:
     Focus on usability and the design of interactive systems, not only for the
@@ -59,11 +60,24 @@ STANDARDS
   * HTML and CSS:
     Web Standards, cross-browser compatibility, HTML5, XHTML, CSS2, CSS3
 
-  * HTTP:
-    RESTful Web Service APIs, HTTP client applications
+  * Networking:
+    RESTful HTTP Web Service APIs, HTTP client applications, TCP and UDP
+    protocol design and implementation, message busses, queueing and
+    scheduling.
+
+  * Distributed Systems:
+    Distributed system design and implementation with a focus on performance,
+    failure tolerance and recovery, and simplicity.
 
 HISTORY
 -------
+
+  * App Fog (2010 to 2011, Full Time):
+
+    As the first employee, helped build and grow a distributed hosting platform
+    from hundreds of hosted applications to over ten thousand. Responsible for
+    technical and architectural decisions, hiring decisions, and building a
+    company culture based on trust and shared ownership.
 
   * PuppetLabs (2009 to 2010, Full Time):
 
