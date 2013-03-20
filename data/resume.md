@@ -71,6 +71,18 @@ STANDARDS
 
 HISTORY
 -------
+  * LivingSocial (2011 to present, Full Time):
+
+    As Senior Software Engineer and Techical Lead, lead small teams of
+    developers that shipped a number of applications that provided new
+    services to merchants and customers. Improved development workflow by
+    introducing a distributed, agile workflow based around the use of GitHub
+    pull requests for feedback and code review. Contributed to the creation of
+    a service architecture that provided RESTful service endpoints for various
+    stores of record.
+
+    Contact: Maria Gutierrez, <maria.gutierrez@livingsocial.com>  
+    <http://livingsocial.com>  
 
   * App Fog (2010 to 2011, Full Time):
 
